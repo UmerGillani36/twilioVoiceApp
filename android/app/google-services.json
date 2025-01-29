@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536181705062",
+    "project_id": "twiliovoiceapp-f46e4",
+    "storage_bucket": "twiliovoiceapp-f46e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536181705062:android:75fe8672b1981bdc4460a7",
+        "android_client_info": {
+          "package_name": "com.twiliovoiceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuUU6xa09GYccHvchM8EejOtkvnbjj3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

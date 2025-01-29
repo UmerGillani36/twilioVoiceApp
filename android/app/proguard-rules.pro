@@ -8,3 +8,7 @@
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
 # Add any project specific keep options here:
+-keep class com.twiliovoicereactnative.** { *; }
+-keep class com.twilio.** { *; }
+-keep class tvo.webrtc.** { *; }
+-keep class com.facebook.react.** { *; }
